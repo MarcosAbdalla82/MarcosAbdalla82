@@ -3,6 +3,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/SENAI_logo_2024.png" width="70">
 https://www.fiemg.com.br/senai/
 
+<a href="mailto:009113638@senaimgdocente.com.br">
+
 <!--
 **MarcosAbdalla82/MarcosAbdalla82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
