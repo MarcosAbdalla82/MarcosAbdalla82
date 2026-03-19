@@ -1,6 +1,6 @@
 ## Olá pessoal! Bem vindos alunos do SENAI 👋
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/SENAI_logo_2024.png" width="70">]
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/SENAI_logo_2024.png" width="70">
 (https://www.fiemg.com.br/senai/)
 
 <!--
