@@ -5,7 +5,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/SENAI_logo_2024.png" width="300">
 </a>
 
-E-mail de contato: [mailto:009113638@senaimgdocente.com.br](mailto:009113638@senaimgdocente.com.br)
+E-mail de contato: [mailto:009113638@senaimgdocente.com.br](009113638@senaimgdocente.com.br)
 
 
 <!--
