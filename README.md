@@ -1,4 +1,4 @@
-## Olá pessoal! Bem vindos alunos do SENAI 👋
+## Olá pessoal! Bem vindos alunos do SENAI!!! 👋
 
 
 <a href="https://www.fiemg.com.br/senai/">
